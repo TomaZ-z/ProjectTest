@@ -1,2 +1,3 @@
 # ProjectTest
-first test prject
+a small random project for fun
+(*i suck)
